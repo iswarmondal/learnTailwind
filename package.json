@@ -1,0 +1,28 @@
+{
+  "name": "learntailwind",
+  "version": "1.0.0",
+  "description": "This is the tutorial worksheet for learning tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iswarmondal/learnTailwind.git"
+  },
+  "keywords": [
+    "tailwind",
+    "css"
+  ],
+  "author": "Iswar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iswarmondal/learnTailwind/issues"
+  },
+  "homepage": "https://github.com/iswarmondal/learnTailwind#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.1",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.9"
+  }
+}
